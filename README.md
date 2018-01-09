@@ -38,6 +38,6 @@
 > 
 九、可以选择VPN在桌面显示，显示连接时间和状态；
 > 
-![Image text](https://github.com/rock-chao/VPNConfig-OS/blob/master/ConfigImage/1.png)
+![Image text](https://github.com/rock-chao/VPNConfig-OS/blob/master/ConfigImage/12.png)
 > 
 
